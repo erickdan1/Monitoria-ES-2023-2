@@ -42,7 +42,7 @@
 - [Diogo Nogueira](https://github.com/DiogoNogueiraLima) 🔠
 - [Mariana Amorim](https://github.com/mrbsa) :cupid:
 - [Hallan](https://github.com/hallanangelo) :computer:
-- [Erick Daniel](https://github.com/erickdan1) :space_invader:
+- [Erick Daniel](https://github.com/erickdan1) 
 - [Rodrigo Amaral Jucá](https://github.com/gtamaral) :rocket:
 - [Otavio Augusto](https://github.com/otavio574) :computer:
 - [Jorge Freitas](https://github.com/jorgelcff) 👊
